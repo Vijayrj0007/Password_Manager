@@ -17,7 +17,7 @@ Optional:
 Deliverables:
 -Complete Android project files (including source code).
 -APK file for testing.
--Documentation of the app's functionality and us
+-Documentation of the app's functionality and usage
 
 
 
