@@ -15,14 +15,7 @@ The Password Manager is an Android application developed in Java that allows you
     alt="Get it on GitHub"
     height="80">](https://github.com/ManishDait/password-manager/releases/latest)
 
-## License
-The Password Manager Android application is open-source and released under the [MIT License](LICENSE).
 
-# Acknowledgments
 
-The Password Manager Android application utilizes the following open-source libraries:
-- [BiometricPrompt](https://developer.android.com/reference/android/hardware/biometrics/BiometricPrompt) - Used for biometric authentication.
 
-## Disclaimer
 
-The Password Manager Android application is intended for personal use and does not guarantee absolute security of your passwords. It is always recommended to use additional security measures and follow best practices to protect your sensitive information.
